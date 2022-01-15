@@ -1,6 +1,6 @@
 # Hibernate Composite Primary Key example with Spring Boot and JPA
 
-## Setup the Application
+## Configurar o aplicativo
 
 1. Create a database named `hibernate_composite_pk_demo`.
 
